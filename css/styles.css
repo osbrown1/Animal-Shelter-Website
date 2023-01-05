@@ -1,0 +1,17 @@
+h1 {
+  font-size: 45px;
+}
+
+h3 {
+  font-style: italic;
+}
+
+.box {
+  border: 10px;
+  border-color: rgb(247, 39, 125);
+  border-style: dotted;
+}
+
+body {
+    background-color:rgb(195, 118, 250) ;
+}
